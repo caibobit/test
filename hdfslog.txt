@@ -1,0 +1,2 @@
+2016-12-23 01:13:33,331 INFO FSNamesystem.audit: allowed=true	ugi=root (auth:SIMPLE)	ip=/192.168.133.57	cmd=mkdirs	src=/caibotest	dst=null	perm=root:supergroup:rwxr-xr-x	proto=rpc
+2017-01-11 05:00:27,809 INFO FSNamesystem.audit: allowed=true	ugi=root (auth:SIMPLE)	ip=/192.168.133.57	cmd=rename	src=/work/caibo.txt._COPYING_	dst=/work/caibo.txt	perm=root:supergroup:rw-r--r--	proto=rpc
